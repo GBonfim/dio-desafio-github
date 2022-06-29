@@ -1,1 +1,14 @@
+Link do Bootcamp DIO: https://web.dio.me/track/impulso-javascript-evolution
 
+Cursos de TI oferecidos pelo Governo do Brasil: https://www.gov.br/pt-br/todosportodos/cursos-ead/tecnologias-da-informacao-e-comunicacao-tic
+
+Curso Gratuito Harvard de Introdução a Ciência da Computação: https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0
+
+Sites para prática de código: https://leetcode.com/
+https://edabit.com/
+
+"Cheat-sheet" de git: https://education.github.com/git-cheat-sheet-education.pdf
+
+Site demonstrando a capacidade de CSS, com arquivos HTML e CSS disponíveis: http://www.csszengarden.com/
+
+w3Schools (para aprendizado geral de desenvolvimento web): https://www.w3schools.com/
